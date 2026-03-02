@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre Mí
 
-Estudiante de Ingeniería en Informática apasionado por el desarrollo web y la creación de soluciones tecnológicas eficientes. Enfocado en construir aplicaciones robustas y escalables.
+Ingeniero en Informática apasionado por el desarrollo web y la creación de soluciones tecnológicas eficientes. Enfocado en construir aplicaciones robustas y escalables.
 
 ---
 
@@ -39,25 +39,13 @@ Estudiante de Ingeniería en Informática apasionado por el desarrollo web y la 
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elJulioDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elJulioDev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elJulioDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexisdevelopgz@gmail.com)
 
 </div>
 
